@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "101702947507",
+    "firebase_url": "https://coerfcm-2ca01.firebaseio.com",
+    "project_id": "coerfcm-2ca01",
+    "storage_bucket": "coerfcm-2ca01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101702947507:android:fda8e421f69f17a20d56c6",
+        "android_client_info": {
+          "package_name": "com.example.coerfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101702947507-svl8mulr2bkd56lad3d2do1h5menahtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coerfcm",
+            "certificate_hash": "5a160dbee92f99e023b9de6b540f8a134a3dc64f"
+          }
+        },
+        {
+          "client_id": "101702947507-f9ug3od0i4pi31b9mvkaenktq3aeo0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2EEfEe2bIV3Tm2pWKkghq3rkoLMlybps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101702947507-f9ug3od0i4pi31b9mvkaenktq3aeo0v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101702947507:android:8c634860ed8a90370d56c6",
+        "android_client_info": {
+          "package_name": "com.example.expensemanager3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101702947507-c2mph2cn8o7apt9djjujm3lhunhktefl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensemanager3",
+            "certificate_hash": "5a160dbee92f99e023b9de6b540f8a134a3dc64f"
+          }
+        },
+        {
+          "client_id": "101702947507-f9ug3od0i4pi31b9mvkaenktq3aeo0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2EEfEe2bIV3Tm2pWKkghq3rkoLMlybps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101702947507-f9ug3od0i4pi31b9mvkaenktq3aeo0v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101702947507:android:9688bef81f6687990d56c6",
+        "android_client_info": {
+          "package_name": "com.example.expensemanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101702947507-uik5co99g0s2kgr8pvilk9euck67r36s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensemanagerapp",
+            "certificate_hash": "5a160dbee92f99e023b9de6b540f8a134a3dc64f"
+          }
+        },
+        {
+          "client_id": "101702947507-f9ug3od0i4pi31b9mvkaenktq3aeo0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2EEfEe2bIV3Tm2pWKkghq3rkoLMlybps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101702947507-f9ug3od0i4pi31b9mvkaenktq3aeo0v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
